@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SlideLayoutSample</string>
+    <string name="text_test1">test1</string>
+    <string name="text_test2">test2</string>
+    <string name="text_test3">test3</string>
+    <string name="text_test4">test4</string>
+    <string name="text_test5">test5</string>
+</resources>
