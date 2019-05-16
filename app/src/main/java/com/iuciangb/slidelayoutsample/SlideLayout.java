@@ -13,6 +13,9 @@ import android.widget.Scroller;
  * @author YY
  * @create 2019/5/16
  * @Describe
+ * 在SlideLayout內放兩個LAYOUT，
+ * 第一個預設Visible，
+ * 第二個預設Invisible，滑動才顯示
  **/
 public class SlideLayout extends ViewGroup {
     public static final int STATE_CLOSE = 0;
